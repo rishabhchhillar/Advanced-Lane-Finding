@@ -123,7 +123,7 @@ Here's the final [output video](./project_video_output.mp4).
 
 ##### Issues faced:
 
-* In some of the frames no lane lines were detected or were very poorly detected, especially in areas where the road had a patch.
+* In some of the frames no lane lines were detected or were very poorly detected, especially in areas where the road had a patch or a lot of curves.
 * It was also difficult to detect lanes properly where the lighting varied greatly and frequently.
 
 ##### Solutions:
