@@ -42,6 +42,7 @@ The goals / steps of this project are the following:
 
 This step is performed using the camera_calibration method, in which I first defined the chessboard size and prepared the object and image points. Then I loaded the chessboard images, converted them to grayscale, and used the findChessboardCorners from OpenCV to detect the corners. The output from that function was then used in calibrateCamera function to perform camera calibration.
 To undistort the images I used the undistort function from OpenCV.
+
 ![alt text][im01]
 ![alt text][im02]
 
@@ -63,7 +64,7 @@ I explored several gradient thresholds to perform binarization. Below are the re
 ![alt text][im07]
 ![alt text][im08]
 
-I also played around with some color thresolds:
+I also played around with some color thresholds for performing color transforms:
 
 ![alt text][im09]
 ![alt text][im10]
