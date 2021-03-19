@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [im03]: ./output_images/original-highway.png "Original Highway"
 [im04]: ./output_images/undistorted-highway.png "Undistorted Highway"
 [im05]: ./output_images/threshold-gradient.png "Threshold Gradient"
-[im06]: ./output_images/threshold-magnitudepng "Threshold Magnitude"
+[im06]: ./output_images/threshold-magnitude.png "Threshold Magnitude"
 [im07]: ./output_images/threshold-gradient-direction.png "Threshold Gradient Direction"
 [im08]: ./output_images/combined-thresholds.png "Combined Magnitude and Direction Thresholds"
 [im09]: ./output_images/color-channels.png "Color Channels"
